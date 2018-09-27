@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="154" started-at="2018-09-27T02:24:32Z" finished-at="2018-09-27T02:24:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="154" started-at="2018-09-27T02:24:32Z" finished-at="2018-09-27T02:24:32Z">
+      <class name="rent.checker">
+        <test-method status="PASS" signature="methodnew11()[pri:0, instance:rent.checker@27efef64]" name="methodnew11" duration-ms="74" started-at="2018-09-27T07:54:32Z" finished-at="2018-09-27T07:54:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- methodnew11 -->
+      </class> <!-- rent.checker -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
